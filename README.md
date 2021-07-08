@@ -1,4 +1,4 @@
-# Creating Reminder app using recat 
+# Creating Reminder app using react 
 
 This project was created to track the tasks. It includes react ui
 
